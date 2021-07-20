@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @celeste-lingshi
+- 👀 I’m interested in Game🥽,football⚽,eating🍚,sleeping✨
+- 🌱 I’m currently learning Kotlin with Android Studio
+- 📫 How to reach me ---  my E-Mail:1114280281@qq.com
